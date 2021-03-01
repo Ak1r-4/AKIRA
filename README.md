@@ -13,7 +13,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/674790908935536640.png)
+![Discord](https://discord.c99.nl/widget/theme-2/674790908935536640.png)
 
 Hey, I'm Hossam Hated , a Discord Bot Developer from morocco.
 
