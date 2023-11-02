@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Hossam! (AKA Hated/Akira).
 
 <br/>
-<a href="https://www.instagram.com/its_ak1r4/">
+<a href="https://www.instagram.com/_furyy.exe/">
   <img align="left" alt="Hossam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.com/users/674790908935536640">
+<a href="https://discord.com/users/805216713935159306">
     <img align ="left" alt="Hossam's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://twitter.com/itzsasuke6_1">
@@ -13,7 +13,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-3/805216713935159306.png)
+![Discord](https://discord.c99.nl/widget/theme-1/805216713935159306.png)
 
 Hey, I'm Hossam Hated , a Discord Bot Developer from morocco.
 
@@ -23,7 +23,7 @@ Hey, I'm Hossam Hated , a Discord Bot Developer from morocco.
 - 🌱 I’m currently learning  **JavaScript and Python .**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Discord.js**
-- 📫 Contact me at :  **[instagram](https://www.instagram.com/its_ak1r4/)**
+- 📫 Contact me at :  **[instagram](https://www.instagram.com/_furyy.exe/)**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
