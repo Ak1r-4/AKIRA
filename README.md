@@ -25,8 +25,8 @@ Hey, I'm Hossam Hated , a Discord Bot Developer from morocco.
 - 🤔 I’m looking for help with  **Discord.js**
 - 📫 Contact me at :  **[instagram](https://www.instagram.com/_furyy.exe/)**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> Python.**
-
+- ⚡ Fun fact : ** Python >>>.. **
+  
 **Languages and Tools:**  
 
 
