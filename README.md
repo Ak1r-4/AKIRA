@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Hossam! (AKA Hated/Akira).
+### Hi there 👋, I'm Hossam! (AKA STARBOY).
 
 <br/>
 <a href="https://www.instagram.com/_furyy.exe/">
@@ -15,7 +15,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-1/805216713935159306.png)
 
-Hey, I'm Hossam Hated , a Discord Bot Developer from morocco.
+Hey, I'm Hossam (starboy) , a Discord Bot Developer from morocco.
 
  **Information:**
 
