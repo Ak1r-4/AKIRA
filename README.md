@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hossam! (AKA STARBOY).
 
 <br/>
-<a href="https://www.instagram.com/_furyy.exe/">
+<a href="https://www.instagram.com/skycantluv/">
   <img align="left" alt="Hossam's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/805216713935159306">
@@ -13,7 +13,7 @@
 
 <br/>
 
-![Discord](https://discord.c99.nl/widget/theme-1/805216713935159306.png)
+![Discord](https://discord.c99.nl/widget/theme-2/805216713935159306.png)
 
 Hey, I'm Hossam (starboy) , a Discord Bot Developer from morocco.
 
